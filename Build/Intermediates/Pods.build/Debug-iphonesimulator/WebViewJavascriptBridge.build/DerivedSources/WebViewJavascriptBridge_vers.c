@@ -1,0 +1,1 @@
+ const unsigned char WebViewJavascriptBridgeVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:WebViewJavascriptBridge  PROJECT:Pods-1" "\n"; const double WebViewJavascriptBridgeVersionNumber __attribute__ ((used)) = (double)1.;

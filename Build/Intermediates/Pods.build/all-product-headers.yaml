@@ -1,0 +1,2644 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFMacros.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFMacros-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFMacros.framework/Headers/AFMacros-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFMacros-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/AFMacros/AFMacros-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFMacros.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFMacros/AFMacros.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFMacros.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/AFMacros.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPRequestOperationManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFHTTPRequestOperationManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFHTTPSessionManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFHTTPSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkActivityIndicatorManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/AFNetworkActivityIndicatorManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworkReachabilityManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFNetworkReachabilityManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Headers/AFNetworking-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/AFNetworking/AFNetworking-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFSecurityPolicy.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFSecurityPolicy.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLConnectionOperation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFURLConnectionOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLRequestSerialization.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFURLRequestSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLResponseSerialization.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFURLResponseSerialization.h"
+        },
+        {
+          'type': 'file',
+          'name': "AFURLSessionManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/AFNetworking/AFURLSessionManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIActivityIndicatorView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIAlertView+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIAlertView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIButton+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIImage+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIImageView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIKit+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIKit+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIProgressView+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIRefreshControl+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIRefreshControl+AFNetworking.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+AFNetworking.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/AFNetworking/UIKit+AFNetworking/UIWebView+AFNetworking.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/AFNetworking.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/AFNetworking.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Base64.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Base64-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Base64.framework/Headers/Base64-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Base64-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/Base64/Base64-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MF_Base64Additions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Base64/Base64/MF_Base64Additions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Base64.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/Base64.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/CoreTextLabel.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CoreTextLabel-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/CoreTextLabel.framework/Headers/CoreTextLabel-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "CoreTextLabel-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/CoreTextLabel/CoreTextLabel-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "CoreTextLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/CoreTextLabel/CoreTextLabel.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/CoreTextLabel.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/CoreTextLabel.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DACircularProgress-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Headers/DACircularProgress-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DACircularProgress-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/DACircularProgress/DACircularProgress-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DACircularProgressView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DACircularProgress/DACircularProgress/DACircularProgressView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DALabeledCircularProgressView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DACircularProgress/DACircularProgress/DALabeledCircularProgressView.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DACircularProgress.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/DACircularProgress.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTCoreText.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CTLineUtils.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/CTLineUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAccessibilityElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAccessibilityElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAccessibilityViewProxy.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAccessibilityViewProxy.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAnchorHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAnchorHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAttributedTextCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAttributedTextCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAttributedTextContentView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAttributedTextContentView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAttributedTextView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTAttributedTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTBreakHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTBreakHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCSSListStyle.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCSSListStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCSSStylesheet.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCSSStylesheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTColor+Compatibility.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTColor+Compatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTColorFunctions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTColorFunctions.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCompatibility.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCompatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreText-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTCoreText.framework/Headers/DTCoreText-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreText-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/DTCoreText/DTCoreText-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreText.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreText.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextConstants.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextFontCollection.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextFontCollection.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextFontDescriptor.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextFontDescriptor.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextFunctions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextFunctions.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextGlyphRun.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextGlyphRun.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextLayoutFrame+Cursor.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextLayoutFrame+Cursor.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextLayoutFrame.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextLayoutFrame.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextLayoutFrameAccessibilityElementGenerator.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextLayoutFrameAccessibilityElementGenerator.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextLayoutLine.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextLayoutLine.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextLayouter.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextLayouter.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextMacros.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreTextParagraphStyle.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTCoreTextParagraphStyle.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTDictationPlaceholderTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTDictationPlaceholderTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTDictationPlaceholderView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTDictationPlaceholderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLAttributedStringBuilder.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHTMLAttributedStringBuilder.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLParserNode.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHTMLParserNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLParserTextNode.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHTMLParserTextNode.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLWriter.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHTMLWriter.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHorizontalRuleHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTHorizontalRuleHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTIframeTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTIframeTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTImage+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTImage+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTImageTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTImageTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTLazyImageView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTLazyImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTLinkButton.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTLinkButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTListItemHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTListItemHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTObjectTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTObjectTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTStylesheetHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTStylesheetHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTextAttachmentHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTTextAttachmentHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTextBlock.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTTextBlock.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTextHTMLElement.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTTextHTMLElement.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTVideoTextAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTVideoTextAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTWeakSupport.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTWeakSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTWebVideoView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/DTWebVideoView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+DTCoreText.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSAttributedString+DTCoreText.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+DTDebug.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSAttributedString+DTDebug.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSAttributedString+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+SmallCaps.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSAttributedString+SmallCaps.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedStringRunDelegates.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSAttributedStringRunDelegates.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSCharacterSet+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSCharacterSet+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSCoder+DTCompatibility.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSCoder+DTCompatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+DTCoreText.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSDictionary+DTCoreText.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableAttributedString+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSMutableAttributedString+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableString+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSMutableString+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSScanner+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSScanner+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+CSS.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSString+CSS.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSString+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+Paragraphs.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/NSString+Paragraphs.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+DTCoreText.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTCoreText/Core/Source/UIFont+DTCoreText.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTCoreText.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/DTCoreText.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTFoundation.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DTActivityTitleView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTActivityTitleView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAnimatedGIF.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTAnimatedGIF/DTAnimatedGIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTAsyncFileDeleter.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTAsyncFileDeleter.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTBase64Coding.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTBase64Coding.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTBlockFunctions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTBlockFunctions.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCompatibility.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTCompatibility.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCoreGraphicsUtils.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTCoreGraphicsUtils.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTCustomColoredAccessory.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTCustomColoredAccessory.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTExtendedFileAttributes.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTExtendedFileAttributes.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTFolderMonitor.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTFolderMonitor.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTFoundation-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTFoundation.framework/Headers/DTFoundation-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTFoundation-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/DTFoundation/DTFoundation-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTFoundationConstants.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTFoundationConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTHTMLParser.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTHTMLParser/DTHTMLParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTLog.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTLog.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTPieProgressIndicator.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTPieProgressIndicator.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTSmartPagingScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTSmartPagingScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTiledLayerWithoutFade.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/DTTiledLayerWithoutFade.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTVersion.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTVersion.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTWeakSupport.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/DTWeakSupport.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+DTError.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSArray+DTError.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+DTCrypto.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSData+DTCrypto.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDictionary+DTError.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSDictionary+DTError.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSFileWrapper+DTCopying.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSFileWrapper+DTCopying.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableArray+DTMoving.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSMutableArray+DTMoving.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+DTFormatNumbers.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSString+DTFormatNumbers.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+DTPaths.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSString+DTPaths.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+DTURLEncoding.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSString+DTURLEncoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+DTUtilities.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSString+DTUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURL+DTAppLinks.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/NSURL+DTAppLinks.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURL+DTComparing.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSURL+DTComparing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSURL+DTUnshorten.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/NSURL+DTUnshorten.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIApplication+DTNetworkActivity.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/UIApplication+DTNetworkActivity.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+DTFoundation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/UIImage+DTFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+DTFoundation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/UIView+DTFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIWebView+DTFoundation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DTFoundation/Core/Source/iOS/UIWebView+DTFoundation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DTFoundation.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/DTFoundation.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DateTools.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "DTConstants.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTConstants.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTError.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTError.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTimePeriod.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTTimePeriod.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTimePeriodChain.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTTimePeriodChain.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTimePeriodCollection.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTTimePeriodCollection.h"
+        },
+        {
+          'type': 'file',
+          'name': "DTTimePeriodGroup.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DTTimePeriodGroup.h"
+        },
+        {
+          'type': 'file',
+          'name': "DateTools-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DateTools.framework/Headers/DateTools-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "DateTools-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/DateTools/DateTools-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "DateTools.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/DateTools.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSDate+DateTools.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/DateTools/DateTools/NSDate+DateTools.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/DateTools.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/DateTools.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/EGOTableViewPullRefresh.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "EGORefreshTableHeaderView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/EGOTableViewPullRefresh/EGOTableViewPullRefresh/Classes/View/EGORefreshTableHeaderView.h"
+        },
+        {
+          'type': 'file',
+          'name': "EGOTableViewPullRefresh-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/EGOTableViewPullRefresh.framework/Headers/EGOTableViewPullRefresh-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "EGOTableViewPullRefresh-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/EGOTableViewPullRefresh/EGOTableViewPullRefresh-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/EGOTableViewPullRefresh.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/EGOTableViewPullRefresh.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/FlatUIKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FUIAlertView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUIAlertView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUIButton.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUIButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUICellBackgroundView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUICellBackgroundView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUIPopoverBackgroundView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUIPopoverBackgroundView.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUISegmentedControl.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUISegmentedControl.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUISwitch.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUISwitch.h"
+        },
+        {
+          'type': 'file',
+          'name': "FUITextField.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FUITextField.h"
+        },
+        {
+          'type': 'file',
+          'name': "FlatUIKit-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/FlatUIKit.framework/Headers/FlatUIKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FlatUIKit-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/FlatUIKit/FlatUIKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "FlatUIKit.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/FlatUIKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+Icons.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/NSString+Icons.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIBarButtonItem+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIBarButtonItem+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIColor+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIFont+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIFont+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIImage+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UINavigationBar+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIPopoverController+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIPopoverController+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIProgressView+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIProgressView+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISlider+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UISlider+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIStepper+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIStepper+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITabBar+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UITabBar+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableViewCell+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UITableViewCell+FlatUI.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIToolbar+FlatUI.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/FlatUIKit/Classes/ios/UIToolbar+FlatUI.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/FlatUIKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/FlatUIKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/JSONKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JSONKit-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/JSONKit.framework/Headers/JSONKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSONKit-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/JSONKit/JSONKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "JSONKit.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/JSONKit/JSONKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/JSONKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/JSONKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/M80AttributedLabel.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "M80AttributedLabel-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/M80AttributedLabel.framework/Headers/M80AttributedLabel-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "M80AttributedLabel-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/M80AttributedLabel/M80AttributedLabel-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "M80AttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/M80AttributedLabel/M80AttributedLabel/Classes/M80AttributedLabel/M80AttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "M80AttributedLabelAttachment.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/M80AttributedLabel/M80AttributedLabel/Classes/M80AttributedLabel/M80AttributedLabelAttachment.h"
+        },
+        {
+          'type': 'file',
+          'name': "M80AttributedLabelDefines.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/M80AttributedLabel/M80AttributedLabel/Classes/M80AttributedLabel/M80AttributedLabelDefines.h"
+        },
+        {
+          'type': 'file',
+          'name': "M80AttributedLabelURL.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/M80AttributedLabel/M80AttributedLabel/Classes/M80AttributedLabel/M80AttributedLabelURL.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSMutableAttributedString+M80.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/M80AttributedLabel/M80AttributedLabel/Classes/M80AttributedLabel/NSMutableAttributedString+M80.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/M80AttributedLabel.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/M80AttributedLabel.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MBProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MBProgressHUD.framework/Headers/MBProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/MBProgressHUD/MBProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MBProgressHUD.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MBProgressHUD/MBProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MBProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/MBProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MGBox2.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MGBase.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGBase.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGBlockWrapper.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGBlockWrapper.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGBox.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGBox.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGBox2-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MGBox2.framework/Headers/MGBox2-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGBox2-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/MGBox2/MGBox2-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGButton.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGButton.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGLayoutBox.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGLayoutBox.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGLayoutManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGLayoutManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGLine.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGLine.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGLineStyled.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGLineStyled.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGMushParser.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGMushParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGTableBox.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGTableBox.h"
+        },
+        {
+          'type': 'file',
+          'name': "MGTableBoxStyled.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/MGTableBoxStyled.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+MGTrim.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/NSAttributedString+MGTrim.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MGEvents.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/NSObject+MGEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIColor+MGExpanded.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/UIColor+MGExpanded.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIControl+MGEvents.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/UIControl+MGEvents.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIResponder+FirstResponder.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/UIResponder+FirstResponder.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+MGEasyFrame.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MGBox2/MGBox/Categories/UIView+MGEasyFrame.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MGBox2.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/MGBox2.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MJExtension.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MJDictionaryCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJDictionaryCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtension-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MJExtension.framework/Headers/MJExtension-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtension-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/MJExtension/MJExtension-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtension.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJExtension.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJExtensionConst.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJExtensionConst.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJFoundation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJFoundation.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJProperty.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyKey.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJPropertyKey.h"
+        },
+        {
+          'type': 'file',
+          'name': "MJPropertyType.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/MJPropertyType.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJClass.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/NSObject+MJClass.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJCoding.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/NSObject+MJCoding.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJKeyValue.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/NSObject+MJKeyValue.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSObject+MJProperty.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/NSObject+MJProperty.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+MJExtension.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MJExtension/MJExtension/NSString+MJExtension.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MJExtension.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/MJExtension.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MWPhotoBrowser.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MWCaptionView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWCaptionView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWCommon.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWCommon.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWGridCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWGridCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWGridViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWGridViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhoto.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWPhoto.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowser-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MWPhotoBrowser.framework/Headers/MWPhotoBrowser-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowser-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/MWPhotoBrowser/MWPhotoBrowser-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowser.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowser.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoBrowserPrivate.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoBrowserPrivate.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWPhotoProtocol.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWPhotoProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWTapDetectingImageView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWTapDetectingView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWTapDetectingView.h"
+        },
+        {
+          'type': 'file',
+          'name': "MWZoomingScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/MWZoomingScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MWPhotoBrowser.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/MWPhotoBrowser/Pod/Classes/UIImage+MWPhotoBrowser.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/MWPhotoBrowser.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/MWPhotoBrowser.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/NSString_HTML.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSString+HTML.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/NSString-HTML/NSString+HTML.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString-HTML-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/NSString-HTML/NSString-HTML-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString_HTML-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/NSString_HTML.framework/Headers/NSString_HTML-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/NSString_HTML.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/NSString-HTML.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Nimbus.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CSSTokens.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/CSSTokens.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIAttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/attributedlabel/src/NIAttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIBlocks.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIBlocks.h"
+        },
+        {
+          'type': 'file',
+          'name': "NICSSParser.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NICSSParser.h"
+        },
+        {
+          'type': 'file',
+          'name': "NICSSRuleset.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NICSSRuleset.h"
+        },
+        {
+          'type': 'file',
+          'name': "NICellCatalog.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NICellCatalog.h"
+        },
+        {
+          'type': 'file',
+          'name': "NICellFactory.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NICellFactory.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIChameleonObserver.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NIChameleonObserver.h"
+        },
+        {
+          'type': 'file',
+          'name': "NICommonMetrics.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NICommonMetrics.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIDOM.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NIDOM.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIDataStructures.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIDataStructures.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIDebuggingTools.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIDebuggingTools.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIDeviceInfo.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIDeviceInfo.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIDeviceOrientation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIDeviceOrientation.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIError.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIError.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIFormCellCatalog.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NIFormCellCatalog.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIFoundationMethods.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIFoundationMethods.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIInMemoryCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIInMemoryCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIInterapp.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/interapp/src/NIInterapp.h"
+        },
+        {
+          'type': 'file',
+          'name': "NILauncherView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/launcher/src/NILauncherView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NILauncherViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/launcher/src/NILauncherViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINavigationAppearance.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NINavigationAppearance.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINetworkActivity.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NINetworkActivity.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINetworkImageRequest.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkimage/src/NINetworkImageRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINetworkImageView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkimage/src/NINetworkImageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINetworkJSONRequest.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/operations/src_JSONKit/NINetworkJSONRequest.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINetworkTableViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkcontrollers/src/NINetworkTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINonEmptyCollectionTesting.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NINonEmptyCollectionTesting.h"
+        },
+        {
+          'type': 'file',
+          'name': "NINonRetainingCollections.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NINonRetainingCollections.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOperations+Subclassing.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIOperations+Subclassing.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOperations.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIOperations.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverview.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverview.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewGraphView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewGraphView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewLogger.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewLogger.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewMemoryCacheController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewMemoryCacheController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewPageView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewPageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewSwizzling.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewSwizzling.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIOverviewView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NIOverviewView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPageView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NIPageView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPagingScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NIPagingScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPagingScrollViewDataSource.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NIPagingScrollViewDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPagingScrollViewDelegate.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NIPagingScrollViewDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPagingScrollViewPage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NIPagingScrollViewPage.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPaths.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIPaths.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoAlbumScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoAlbumScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoAlbumScrollViewDataSource.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoAlbumScrollViewDataSource.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoAlbumScrollViewDelegate.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoAlbumScrollViewDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoScrollViewDelegate.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoScrollViewDelegate.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoScrollViewPhotoSize.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoScrollViewPhotoSize.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPhotoScrubberView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIPhotoScrubberView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIPreprocessorMacros.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIPreprocessorMacros.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIRadioGroup.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NIRadioGroup.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIRadioGroupController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NIRadioGroupController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIRuntimeClassModifications.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIRuntimeClassModifications.h"
+        },
+        {
+          'type': 'file',
+          'name': "NISDKAvailability.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NISDKAvailability.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIState.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIState.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIStylesheet.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NIStylesheet.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIStylesheetCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NIStylesheetCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "NITableViewActions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NITableViewActions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NITableViewModel+Private.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NITableViewModel+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "NITableViewModel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NITableViewModel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIToolbarPhotoViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NIToolbarPhotoViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIViewRecycler.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NIViewRecycler.h"
+        },
+        {
+          'type': 'file',
+          'name': "NIWebController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/webcontroller/src/NIWebController.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSAttributedString+NimbusAttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/attributedlabel/src/NSAttributedString+NimbusAttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSData+NimbusCore.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NSData+NimbusCore.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSString+NimbusCore.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NSString+NimbusCore.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimbus-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Nimbus.framework/Headers/Nimbus-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Nimbus-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/Nimbus/Nimbus-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusAttributedLabel+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/attributedlabel/src/NimbusAttributedLabel+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusAttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/attributedlabel/src/NimbusAttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusCSS.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NimbusCSS.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusCore+Additions.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NimbusCore+Additions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusCore+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NimbusCore+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusCore.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/NimbusCore.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusCss+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/NimbusCss+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusInterapp+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/interapp/src/NimbusInterapp+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusInterapp.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/interapp/src/NimbusInterapp.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusLauncher+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/launcher/src/NimbusLauncher+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusLauncher.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/launcher/src/NimbusLauncher.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusModels+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NimbusModels+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusModels.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/models/src/NimbusModels.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusNetworkControllers+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkcontrollers/src/NimbusNetworkControllers+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusNetworkControllers.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkcontrollers/src/NimbusNetworkControllers.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusNetworkImage+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkimage/src/NimbusNetworkImage+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusNetworkImage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/networkimage/src/NimbusNetworkImage.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusOperations+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/operations/src/NimbusOperations+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusOperations.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/operations/src/NimbusOperations.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusOverview+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NimbusOverview+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusOverview.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/overview/src/NimbusOverview.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusPagingScrollView+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NimbusPagingScrollView+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusPagingScrollView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/pagingscrollview/src/NimbusPagingScrollView.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusPhotos+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NimbusPhotos+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusPhotos.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/photos/src/NimbusPhotos.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusWebController+Namespace.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/webcontroller/src/NimbusWebController+Namespace.h"
+        },
+        {
+          'type': 'file',
+          'name': "NimbusWebController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/webcontroller/src/NimbusWebController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIActivityIndicatorView+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UIActivityIndicatorView+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UIButton+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UILabel+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UILabel+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UINavigationBar+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UINavigationBar+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIScrollView+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UIScrollView+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UISearchBar+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UISearchBar+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UITableView+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UITableView+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIToolbar+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UIToolbar+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+NIStyleable.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/css/src/UIView+NIStyleable.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+NimbusCore.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Nimbus/src/core/src/UIView+NimbusCore.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Nimbus.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/Nimbus.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Pods.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Pods.framework/Headers/Pods-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/Pods/Pods-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/Pods.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PrettyKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PrettyCustomViewTableViewCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/Cells/PrettyCustomViewTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyDrawing.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyDrawing.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyGridTableViewCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/Cells/PrettyGridTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyKit-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PrettyKit.framework/Headers/PrettyKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyKit-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/PrettyKit/PrettyKit-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyKit.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyNavigationBar.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyNavigationBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettySegmentedControlTableViewCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/Cells/PrettySegmentedControlTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyShadowPlainTableview.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyShadowPlainTableview.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyTabBar.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyTabBar.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyTableViewCell.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/Cells/PrettyTableViewCell.h"
+        },
+        {
+          'type': 'file',
+          'name': "PrettyToolbar.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PrettyKit/PrettyKit/PrettyToolbar.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PrettyKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/PrettyKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PullToRefresh.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "PullRefreshTableViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/PullToRefresh/Classes/PullRefreshTableViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "PullToRefresh-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PullToRefresh.framework/Headers/PullToRefresh-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "PullToRefresh-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/PullToRefresh/PullToRefresh-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/PullToRefresh.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/PullToRefresh.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RNCryptor.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RNCryptor-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RNCryptor.framework/Headers/RNCryptor-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNCryptor-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/RNCryptor/RNCryptor-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "RNCryptor.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/RNCryptor/RNCryptor.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RNCryptor.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/RNCryptor.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RegexKitLite.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RegexKitLite-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RegexKitLite.framework/Headers/RegexKitLite-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RegexKitLite-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/RegexKitLite/RegexKitLite-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "RegexKitLite.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/RegexKitLite/RegexKitLite.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/RegexKitLite.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/RegexKitLite.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SKBounceAnimation.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SKBounceAnimation-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SKBounceAnimation.framework/Headers/SKBounceAnimation-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SKBounceAnimation-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/SKBounceAnimation/SKBounceAnimation-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SKBounceAnimation.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SKBounceAnimation/SKBounceAnimation/SKBounceAnimation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SKBounceAnimation.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/SKBounceAnimation.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SSCheckBoxView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SSCheckBoxView-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SSCheckBoxView.framework/Headers/SSCheckBoxView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SSCheckBoxView-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/SSCheckBoxView/SSCheckBoxView-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SSCheckBoxView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SSCheckBoxView/SSCheckBoxView/SSCheckBoxView/SSCheckBoxView.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIHelpers.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SSCheckBoxView/SSCheckBoxView/SSCheckBoxView/Helpers/UIHelpers.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SSCheckBoxView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/SSCheckBoxView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/STableViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "STableViewController-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/STableViewController.framework/Headers/STableViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "STableViewController-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/STableViewController/STableViewController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "STableViewController.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/STableViewController/STableViewController/STableViewController.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/STableViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/STableViewController.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SVProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SVIndefiniteAnimatedView.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SVProgressHUD/SVProgressHUD/SVIndefiniteAnimatedView.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SVProgressHUD.framework/Headers/SVProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/SVProgressHUD/SVProgressHUD-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SVProgressHUD.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/SVProgressHUD/SVProgressHUD/SVProgressHUD.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/SVProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/SVProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/TYAttributedLabel.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSMutableAttributedString+TY.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/NSMutableAttributedString+TY.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYAttributedLabel-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/TYAttributedLabel.framework/Headers/TYAttributedLabel-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYAttributedLabel-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/TYAttributedLabel/TYAttributedLabel-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYAttributedLabel.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYAttributedLabel.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYDrawStorage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYDrawStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYImageCache.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYImageStorage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYImageStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYLinkTextStorage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYLinkTextStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYTextContainer.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYTextContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYTextStorage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYTextStorage.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYTextStorageProtocol.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYTextStorageProtocol.h"
+        },
+        {
+          'type': 'file',
+          'name': "TYViewStorage.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/TYAttributedLabel/TYAttributedLabelDemo/TYAttributedLabel/TYViewStorage.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/TYAttributedLabel.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/TYAttributedLabel.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/WebViewJavascriptBridge.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "WKWebViewJavascriptBridge.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/WebViewJavascriptBridge/WebViewJavascriptBridge/WKWebViewJavascriptBridge.h"
+        },
+        {
+          'type': 'file',
+          'name': "WebViewJavascriptBridge-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/WebViewJavascriptBridge.framework/Headers/WebViewJavascriptBridge-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "WebViewJavascriptBridge-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/WebViewJavascriptBridge/WebViewJavascriptBridge-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "WebViewJavascriptBridge.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/WebViewJavascriptBridge/WebViewJavascriptBridge/WebViewJavascriptBridge.h"
+        },
+        {
+          'type': 'file',
+          'name': "WebViewJavascriptBridgeBase.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/WebViewJavascriptBridge/WebViewJavascriptBridge/WebViewJavascriptBridgeBase.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/WebViewJavascriptBridge.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/WebViewJavascriptBridge.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/WebViewJavascriptBridge.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "WebViewJavascriptBridge_JS.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/WebViewJavascriptBridge/WebViewJavascriptBridge/WebViewJavascriptBridge_JS.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/ZAActivityBar.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ZAActivityBar-Swift.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/ZAActivityBar.framework/Headers/ZAActivityBar-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZAActivityBar-umbrella.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/Target Support Files/ZAActivityBar/ZAActivityBar-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "ZAActivityBar.h",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/ZAActivityBar/ZAActivityBar/ZAActivityBar.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphonesimulator/ZAActivityBar.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphonesimulator/ZAActivityBar.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

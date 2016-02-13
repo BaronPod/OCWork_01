@@ -1,0 +1,6 @@
+framework module CoreTextLabel {
+  umbrella header "CoreTextLabel-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SKBounceAnimation {
+  umbrella header "SKBounceAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}

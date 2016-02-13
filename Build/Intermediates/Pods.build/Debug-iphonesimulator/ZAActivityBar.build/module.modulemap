@@ -1,0 +1,6 @@
+framework module ZAActivityBar {
+  umbrella header "ZAActivityBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

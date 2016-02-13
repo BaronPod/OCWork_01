@@ -1,0 +1,1 @@
+ const unsigned char M80AttributedLabelVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:M80AttributedLabel  PROJECT:Pods-1" "\n"; const double M80AttributedLabelVersionNumber __attribute__ ((used)) = (double)1.;

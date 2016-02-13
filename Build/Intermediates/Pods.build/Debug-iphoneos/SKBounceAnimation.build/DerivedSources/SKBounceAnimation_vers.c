@@ -1,0 +1,1 @@
+ const unsigned char SKBounceAnimationVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:SKBounceAnimation  PROJECT:Pods-1" "\n"; const double SKBounceAnimationVersionNumber __attribute__ ((used)) = (double)1.;

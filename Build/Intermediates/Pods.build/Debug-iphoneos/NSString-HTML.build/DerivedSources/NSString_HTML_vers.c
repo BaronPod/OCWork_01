@@ -1,0 +1,1 @@
+ const unsigned char NSString_HTMLVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:NSString_HTML  PROJECT:Pods-1" "\n"; const double NSString_HTMLVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,1 @@
+ const unsigned char TYAttributedLabelVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:TYAttributedLabel  PROJECT:Pods-1" "\n"; const double TYAttributedLabelVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "f4624970f8d3c2f5b5c3fe958c510535"
+build_time: [508071867, 480667000]
+inputs:
+  "/Users/Baron/Desktop/MAC/OC/OCWork_01/Pods/RNCryptor/RNCryptor.swift": [505792990, 0]

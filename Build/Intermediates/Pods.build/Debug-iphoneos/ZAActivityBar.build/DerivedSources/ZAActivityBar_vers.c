@@ -1,0 +1,1 @@
+ const unsigned char ZAActivityBarVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:ZAActivityBar  PROJECT:Pods-1" "\n"; const double ZAActivityBarVersionNumber __attribute__ ((used)) = (double)1.;

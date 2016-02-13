@@ -1,0 +1,6 @@
+framework module AFMacros {
+  umbrella header "AFMacros-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module MGBox2 {
+  umbrella header "MGBox2-umbrella.h"
+
+  export *
+  module * { export * }
+}

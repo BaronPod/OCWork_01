@@ -1,0 +1,1 @@
+ const unsigned char CoreTextLabelVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:CoreTextLabel  PROJECT:Pods-1" "\n"; const double CoreTextLabelVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Products/Debug-iphoneos/RNCryptor.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/Baron/Desktop/MAC/OC/OCWork_01/Build/Intermediates/Pods.build/Debug-iphoneos/RNCryptor.build/unextended-module.modulemap',
+    }]
+  }]
+}

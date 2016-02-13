@@ -1,0 +1,6 @@
+framework module NSString_HTML {
+  umbrella header "NSString-HTML-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module STableViewController {
+  umbrella header "STableViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
